@@ -14,9 +14,11 @@ The title may be a little stupid but at a lower level I commonly see mistakes of
 - The nose also includes the corners of the front side of your car which sometimes may produce more power than using the front part of the nose (Ex. when you are to the side of the ball).
     - ![Image](noseOfCar3.png)
 
-- Sometimes you may want to air roll a little bit if you need to jump up for a ball and hit it with your nose. Get used to this, this will be important for power shots and shooting in general. 
-    - ![Video](usingAirRoll.mp4)
-        - Note that I jumped up and used air roll so that i could hit the ball to the side with the corner of my car
+- Sometimes you may want to air roll a little bit if you need to jump up for a ball and hit it with your nose. Get used to this, this will be important for power shots and shooting in general.
+
+https://github.com/user-attachments/assets/28d9b1c0-547a-4b4b-971b-6a0fb442ca9d
+
+- Note that I jumped up and used air roll so that i could hit the ball to the side with the corner of my car
 
 - To practice hitting the ball with the nose of your car you can go into freeplay and do something similar to the ballchasing drill, but instead of just hitting the ball and following up as fast as you can, the main focus should be to **read where the ball is going, reposition for it, wait for the ball if you are too fast, then hitting it again with your nose**. This method will also help practice your power clears and reads off the wall. I will be mentioning this method again when I go over power clears.
 

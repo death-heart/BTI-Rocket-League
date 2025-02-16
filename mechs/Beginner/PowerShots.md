@@ -14,5 +14,8 @@ https://github.com/user-attachments/assets/ef564bd9-f793-4fbd-a2e8-52ad0741dcc1
 
 https://github.com/user-attachments/assets/dadbcfe4-6677-4bfe-b0dd-b44a21e17c59
 
+- In this example I flip after making contact with the ball, this basically equates to if I had just single jumped into the ball and then flipped to recover. This produces very little power
+
 https://github.com/user-attachments/assets/ae0e5ecc-686f-4692-b976-22a8c92ece78
 
+- In this example I flip before I make contact with the ball, this produces more power than the previous example, but not enough in comparison to the proper execution of flipping into the ball.

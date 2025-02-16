@@ -11,3 +11,8 @@ Power shots are one of the fundamental ways of scoring in rocket league and is m
 https://github.com/user-attachments/assets/ef564bd9-f793-4fbd-a2e8-52ad0741dcc1
 
 - Here you can see a good example of flipping into the ball. This gives the ball a lot of power (101kph) when I shoot it into the net.
+
+https://github.com/user-attachments/assets/dadbcfe4-6677-4bfe-b0dd-b44a21e17c59
+
+https://github.com/user-attachments/assets/ae0e5ecc-686f-4692-b976-22a8c92ece78
+

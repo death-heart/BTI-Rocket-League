@@ -30,4 +30,29 @@ Stupid title again, but let me explain. Once you are at a point where you are ab
 
 https://github.com/user-attachments/assets/6461fa7a-8a67-4b8c-b1c5-e14966ef5122
 
+- The first point is right when the ball bounces on the ground. This same point is used to do power clears. Not only does this produce a lot of power, but it also produces height.
+
 https://github.com/user-attachments/assets/24c0359a-2902-4cc6-aeaa-495fc9d0b834
+
+- The second point is right before the ball hits the ground. This produces no height but a lot of power, sometimes more than if you were to wait for the ball to bounce. This is good if you want to shoot the ball low to the ground towards a bottom corner of the net.
+
+### How to Hit
+
+Rocket league is an extremely free form game so there are no set guidelines on how to hit the ball beyond the basics of hitting it with your nose for the most control and power on the ball. However, if there is confusion on the usage of when to hit the ball or how to approach angles there are some things that you can keep in mind.
+
+- When wanting to go for height on the ball, going for the first point when the ball has just bounced on the ground will give you the most height. This allows you to go for shots in the top corner of the net. You may also run into moments where the ball is slightly higher up on the ground and you'll have to jump up for the ball and hit it. If you still want height in this situation you'll want to hit towards the bottom of the ball so that it goes upwards. This part of the ball will also be used for air dribbles if we get into them.
+    - ![Image](media/bottomOfBall.png)
+    - You can see the part of the ball you want to aim for if you want height in any situation 
+
+- When going for power shots and wanting to hit the ball towards the left/right, you will want to utilize the corners of the car. You can see what part of the car this is in the [PartsOfCar.md](PartsOfCar.md) section. What will also help is approaching the ball from the side, and sometimes single jumping and air rolling so that you can hit the ball with the corner of your car. Once again, [PartsOfCar.md](PartsOfCar.md) for an example of this.
+
+## Practice Methods
+
+
+
+---
+# Power Clears
+---
+## Intro(? sort of?) (Disclaimer?)
+
+Honestly, if you can do power shots, you can do power clears. If you can do power clears, you can do power shots. They are basically one in the same as both involve similar strategies and methods. The main thing with power clears is that you will want to go for a lot of height and power as your aim is to get the ball out of your half of the field. 

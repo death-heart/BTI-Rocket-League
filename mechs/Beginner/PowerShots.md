@@ -48,6 +48,8 @@ Rocket league is an extremely free form game so there are no set guidelines on h
 
 ## Practice Methods
 
+The best way to practice power shots is either through setting them up through bounce dribbles, off of kick off, or through packs. Bounce dribbles I will get into in the intermediate mechanics section, so we will skip those for now. These next 4 videos will showcase how you can set up power shots off of kick off in training mode.
+
 https://github.com/user-attachments/assets/0f1766d0-88a6-4604-b54e-f3d76de70742
 
 https://github.com/user-attachments/assets/dd0b9b9c-1701-49dd-9a8b-786537bb420d
@@ -55,6 +57,13 @@ https://github.com/user-attachments/assets/dd0b9b9c-1701-49dd-9a8b-786537bb420d
 https://github.com/user-attachments/assets/44e57cdd-86fe-4de2-ab30-f6679e02ac2c
 
 https://github.com/user-attachments/assets/0cbcb105-c79b-4f10-afc7-b6b307274349
+
+The main focus is to tap the ball with a enough speed so that it pops into the air and you can practice doing the different methods I mentioned when going for power shots.
+
+I will now give a list of training packs that I think are good to practice power shots, if they have a video on them I will include that as well
+
+- [7028-5E10-88EF-E83E](https://www.youtube.com/watch?v=zuU3xBELMbA) (it also has some power clear/aerial setups at the end :3)
+- 
 
 ---
 # Power Clears

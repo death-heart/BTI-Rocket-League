@@ -48,7 +48,13 @@ Rocket league is an extremely free form game so there are no set guidelines on h
 
 ## Practice Methods
 
+https://github.com/user-attachments/assets/0f1766d0-88a6-4604-b54e-f3d76de70742
 
+https://github.com/user-attachments/assets/dd0b9b9c-1701-49dd-9a8b-786537bb420d
+
+https://github.com/user-attachments/assets/44e57cdd-86fe-4de2-ab30-f6679e02ac2c
+
+https://github.com/user-attachments/assets/0cbcb105-c79b-4f10-afc7-b6b307274349
 
 ---
 # Power Clears

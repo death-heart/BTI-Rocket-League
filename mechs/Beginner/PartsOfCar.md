@@ -28,3 +28,10 @@ https://github.com/user-attachments/assets/28d9b1c0-547a-4b4b-971b-6a0fb442ca9d
 
 - **After hitting the ball against the wall you will want to read where it is going, reposition for it, and single jump while tilting back to tap the ball with your wheels**. This will put the ball in front of you where you want repeat the same drill. If you want to practice passing the ball by getting soft touches with your wheel to send the ball close mid, you can grab your teammate, go into online freeplay (OFP), and do a passing drill. I will showcase a video featuring it as a part of this section.
 
+https://github.com/user-attachments/assets/a21b569d-327d-43e1-9dd9-308834ca7464
+
+- Here you can see how I use my wheels to "catch" the ball by slowing its momentum softly and then putting it on top of my car for a flick
+
+https://github.com/user-attachments/assets/45333e4e-e0db-434c-b290-245c8a9089e9
+
+- This is the same concept, but instead I am going for a powershot instead of a flick

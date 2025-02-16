@@ -19,3 +19,13 @@ https://github.com/user-attachments/assets/dadbcfe4-6677-4bfe-b0dd-b44a21e17c59
 https://github.com/user-attachments/assets/ae0e5ecc-686f-4692-b976-22a8c92ece78
 
 - In this example I flip before I make contact with the ball, this produces more power than the previous example, but not enough in comparison to the proper execution of flipping into the ball.
+
+## When and How
+
+Stupid title again, but let me explain. Once you are at a point where you are able to consistently hit the ball with the nose of your car with a lot of power, you will want to start controlling where the ball gets placed into the net. Knowing how and when to hit the ball helps a lot in these cases as this allows you to place the ball into an unsaveable spot on the net. Also, hitting the ball at certain points will produce even more power than just hitting it plainly. So lets start with the When, and then we will get into the How.
+
+### When to Hit
+
+- There are multiple points when you can hit the ball, but there are two primary points where hitting the ball will produce the most amount of power
+
+

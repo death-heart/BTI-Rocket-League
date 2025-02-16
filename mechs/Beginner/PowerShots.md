@@ -63,7 +63,9 @@ The main focus is to tap the ball with a enough speed so that it pops into the a
 I will now give a list of training packs that I think are good to practice power shots, if they have a video on them I will include that as well
 
 - [7028-5E10-88EF-E83E](https://www.youtube.com/watch?v=zuU3xBELMbA) (it also has some power clear/aerial setups at the end :3)
-- 
+- [3B69-B8C9-D4B2-A7E3](https://www.youtube.com/watch?v=xlREKdyuy7k) (these are a little more advanced and involve some saves so if you can't do them all don't feel bad, just come back later)
+- [B4EB-C56A-BA9D-5300](https://www.youtube.com/watch?v=WIdKX7JZQxE) (air roll ground shots c:)
+- [137F-0F44-6FA1-91EE](https://www.youtube.com/watch?v=VE1ZnHtKKlA) (more focused on shooting but still includes some good setups for going for power shots)
 
 ---
 # Power Clears

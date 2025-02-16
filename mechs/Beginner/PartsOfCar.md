@@ -8,11 +8,11 @@ The title may be a little stupid but at a lower level I commonly see mistakes of
 
 
 - Using the nose of your car is the ***most*** important thing when it comes to maximizing power when hitting the ball. When you see high level players go for clears or shots you will often see them hit the ball with the nose of their car. There are only certain situations where they will use other parts of their car to hit the ball (Ex. top of car when hitting a double tap).
-    - ![Image](noseOfCar.png)
-    - ![Image](noseOfCar2.png)
+    - ![Image](media/noseOfCar.png)
+    - ![Image](media/noseOfCar2.png)
 
 - The nose also includes the corners of the front side of your car which sometimes may produce more power than using the front part of the nose (Ex. when you are to the side of the ball).
-    - ![Image](noseOfCar3.png)
+    - ![Image](media/noseOfCar3.png)
 
 - Sometimes you may want to air roll a little bit if you need to jump up for a ball and hit it with your nose. Get used to this, this will be important for power shots and shooting in general.
 

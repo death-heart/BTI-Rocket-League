@@ -28,4 +28,6 @@ Stupid title again, but let me explain. Once you are at a point where you are ab
 
 - There are multiple points when you can hit the ball, but there are two primary points where hitting the ball will produce the most amount of power
 
+https://github.com/user-attachments/assets/6461fa7a-8a67-4b8c-b1c5-e14966ef5122
 
+https://github.com/user-attachments/assets/24c0359a-2902-4cc6-aeaa-495fc9d0b834

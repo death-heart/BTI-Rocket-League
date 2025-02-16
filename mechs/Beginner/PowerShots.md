@@ -8,4 +8,6 @@ Power shots are one of the fundamental ways of scoring in rocket league and is m
 
 - When going for a power shot knowing when the flip is *extremely* important. If you mistime your flip you are not maximizing the amount of power you are putting into the ball which can make the shot you are going for still saveable. The focus should be to flip *into* the ball. Then only contact you should be making with the ball is when you flip and not after and/or before you flip.
 
+https://github.com/user-attachments/assets/ef564bd9-f793-4fbd-a2e8-52ad0741dcc1
 
+- Here you can see a good example of flipping into the ball. This gives the ball a lot of power (101kph) when I shoot it into the net.

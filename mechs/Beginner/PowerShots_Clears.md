@@ -88,7 +88,7 @@ https://github.com/user-attachments/assets/006cb503-07c1-49b2-a199-8c3f87a40c4d
 
 You could even do a combination of both and hit the ball towards the wall, read where it is going, then try and hit it towards the opposite end of the field.
 
-Something to take note of is that I am aiming for the bottom middle part of the ball to get height and power. You can see what part of the ball this is in the earlier section [How to Hit](###How-to-Hit)
+Something to take note of is that I am aiming for the bottom middle part of the ball to get height and power. You can see what part of the ball this is in the earlier section [How to Hit](#how-to-hit)
 
 Here are some training packs for power clears
 

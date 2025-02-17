@@ -92,4 +92,5 @@ Something to take note of is that I am aiming for the bottom middle part of the 
 
 Here are some training packs for power clears
 
--
+- [E530-9668-C5B6-086F](https://www.youtube.com/watch?v=L97RkVuiKqk)
+- [2710-736C-B1A7-E648](https://www.youtube.com/watch?v=czZXq3fJoGE) (ngl this is more of a kevpert video on clearing with a training pack attached to it but it's a good video so i would suggest watching it c:)

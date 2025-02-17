@@ -23,3 +23,10 @@ There are multiple ways you can touch the ball to start bouncing it. You can use
 Of course, doing it with your nose gives you the most control and helps with going for a power shot at the end, but as you add more ground options to your utility belt, you may not want to always go for a power shot. It makes your offense easier to read and you limit how threatening you are as a player.
 
 Below will be videos of me bounce dribbling the ball with different parts of my car and then going for a power shot at the end. Take note of when I touch the ball and how close I keep it to me.
+
+https://github.com/user-attachments/assets/ae5c6cc5-51ad-464f-b164-40429685b9bf
+
+https://github.com/user-attachments/assets/b7e57554-dd8e-419a-9538-5d3e7f35d49f
+
+https://github.com/user-attachments/assets/1aa87475-6c15-4b04-bf0c-1dcf8a25218a
+

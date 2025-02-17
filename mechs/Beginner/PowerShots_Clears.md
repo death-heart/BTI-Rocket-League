@@ -73,3 +73,8 @@ I will now give a list of training packs that I think are good to practice power
 ## Intro(? sort of?) (Disclaimer?)
 
 Honestly, if you can do power shots, you can do power clears. If you can do power clears, you can do power shots. They are basically one in the same as both involve similar strategies and methods. The main thing with power clears is that you will want to go for a lot of height and power as your aim is to get the ball out of your half of the field. 
+
+## Practice Methods
+
+When practicing power clears you are going to be doing similar methods to practicing power shots, except you will be on one half of the field and focusing on hitting the ball the moment it leaves the ground to get both power and height. You can also do this by hitting the ball against the wall, reading it, and hitting it again the same exact way. Below will be a video of both of these methods.
+

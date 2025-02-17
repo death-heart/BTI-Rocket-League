@@ -78,3 +78,6 @@ Honestly, if you can do power shots, you can do power clears. If you can do powe
 
 When practicing power clears you are going to be doing similar methods to practicing power shots, except you will be on one half of the field and focusing on hitting the ball the moment it leaves the ground to get both power and height. You can also do this by hitting the ball against the wall, reading it, and hitting it again the same exact way. Below will be a video of both of these methods.
 
+https://github.com/user-attachments/assets/1ecaa793-c45d-448c-898c-f3e7a31a59ad
+
+https://github.com/user-attachments/assets/006cb503-07c1-49b2-a199-8c3f87a40c4d

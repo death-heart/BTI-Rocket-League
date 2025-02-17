@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/1aa87475-6c15-4b04-bf0c-1dcf8a25218a
 
 Here are some things to note:
 
-- Each time I went to hit the ball, it was *after* it had bounced. If I had done it too early, before it had bounced, it would have landed on my car and seized its bouncing momentum, runing the dribble. If I had done it too late, I would have given the ball too much height, which can be good unless done unintentionally, especially if going for a power shot.
+- Each time I went to hit the ball, it was *after* it had bounced. If I had done it too early, before it had bounced, it would have landed on my car and seized its bouncing momentum. If I had done it too late, I would have given the ball more height. Neither of these are inherently bad, you may want to do some of these at some points when bounce dribbling, but if going specifically for the setup shown in the videos, they may be bad if done unintentionally and can throw you off or ruin your dribble/power shot.
 - When I bounce dribbled with the sides of my car, I was going a bit slower, I also switched sides and didn't have the most control on the ball. The sides of the car don't give me the most control when bounce dribbling, but it makes it easier to give the ball height and/or switch sides. I can still do this with the other methods, but doing it with different parts of the car makes it harder to figure out what I am going for
 - While bounce dribbling, I was approaching the net at an angle, this allows me to have the most options available to me when shooting as I can shoot the ball almost anywhere on net.
 
@@ -49,6 +49,4 @@ For practicing bounce dribbles you basically want to do what I was doing in the 
 I also recommend not sticking to bounce dribbling with only one part of the car, forcing yourself to only use the corners or sides shouldn't be what you practice, instead figure out when you should use a different part of the car by practicing the mechanic and understanding how you should be controlling the ball when bounce dribbling it.
 
 Below I will show a video of me bounce dribbling the ball around the field for reference of practice
-
-
 

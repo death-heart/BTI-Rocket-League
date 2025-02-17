@@ -80,4 +80,14 @@ When practicing power clears you are going to be doing similar methods to practi
 
 https://github.com/user-attachments/assets/1ecaa793-c45d-448c-898c-f3e7a31a59ad
 
+- Here I am hitting the ball towards the wall, reading where it is going, and then hitting it again
+
 https://github.com/user-attachments/assets/006cb503-07c1-49b2-a199-8c3f87a40c4d
+
+- Here I am setting up the ball to be bouncing in one half of the field, and then hitting it towards the other half
+
+You could even do a combination of both and hit the ball towards the wall, read where it is going, then try and hit it towards the opposite end of the field.
+
+Here are some training packs for power clears
+
+-
